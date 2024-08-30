@@ -1,0 +1,10 @@
+[package]
+name = "rust_ml_project"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+candle-core = "0.3.2"
+candle-nn = "0.3.2"
+anyhow = "1.0"
+rand = "0.8"
